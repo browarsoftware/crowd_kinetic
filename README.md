@@ -1,4 +1,4 @@
-# Crowd Kinetic, version .01
+# Crowd Kinetic
 
 ![header](Image/header.jpg)
 
