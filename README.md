@@ -1,10 +1,12 @@
 # Crowd Kinematic, version .01
 
+![header](Image/header.jpg)
+
 This repository contains implementation of rigid body agent-based crowd simulation framework utilizing simplified ray casting social forces and heat map parameters fitting.
 
 Below there are two example visualizations for bottleneck experiment with various width of the corridor based on [real-world data](https://ped.fz-juelich.de/db/doku.php?id=bottleneck2) and theoretical scenario with 500 agents devided into two groups.
 
-![](Image/1.gif)![](Image/2.gif)![](Image/3.gif)
+![1](Image/1.gif)![2](Image/2.gif)![3](Image/3.gif)
 
 Tested on Unity 2021.3.11f1. 
 
